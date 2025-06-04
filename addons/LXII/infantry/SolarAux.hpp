@@ -4,15 +4,39 @@
     editorSubcategory = "BNB_FA_LXII_SA";
     side=1;
     displayName="Rifleman SA";
-    uniformClass="UK3CB_BAF_U_CombatUniform_SA_ShortSleeve";
-    weapons[]={"UK3CB_BAF_L85A3","UK3CB_BAF_L131A1","Put","Throw"};
-    respawnWeapons[]={"UK3CB_BAF_L85A3","UK3CB_BAF_L131A1","Put","Throw"};
-    items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_EntrenchingTool"};
-    respawnItems[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_EntrenchingTool"};
-    magazines[]={"UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","HandGrenade","HandGrenade","HandGrenade","HandGrenade"};
-    respawnMagazines[]={"UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","HandGrenade","HandGrenade","HandGrenade","HandGrenade"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","UK3CB_BAF_H_Mk7_Camo_A","UK3CB_BAF_V_Osprey_Rifleman_B","UK3CB_BAF_G_Tactical_Black"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","UK3CB_BAF_H_Mk7_Camo_A","UK3CB_BAF_V_Osprey_Rifleman_B","UK3CB_BAF_G_Tactical_Black"};
+    uniformClass="Sol_Aux_Uni_1";
+    weapons[]={"WBK_SolarAux_LasRifle","WBK_SolarAux_Melee_PowerSword","Put","Throw"};
+    respawnWeapons[]={"WBK_SolarAux_LasRifle","WBK_SolarAux_Melee_PowerSword","Put","Throw"};
+    items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine",
+    "ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine",
+    "ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_EntrenchingTool"};
+    respawnItems[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine",
+    "ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine",
+    "ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_EntrenchingTool"};
+    magazines[]={"SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_krak_grenade_mag","TIOW_ig_krak_grenade_mag",
+    "TIOW_ig_melta_bomb_mag","Echo_Smoke_Grenade_Mag","ACE_CTS9","ACE_CTS9","ACE_CTS9","ACE_CTS9"};
+    respawnMagazines[]={"SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_krak_grenade_mag","TIOW_ig_krak_grenade_mag",
+    "TIOW_ig_melta_bomb_mag","Echo_Smoke_Grenade_Mag","ACE_CTS9","ACE_CTS9","ACE_CTS9","ACE_CTS9"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Sol_Aux_Vest_5","Sol_Aux_Helm_1","G_Balaclava_blk"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Sol_Aux_Vest_5","Sol_Aux_Helm_1","G_Balaclava_blk"};
     backpack="BNB_FA_LXII_Rifleman_SA_pack";
   };
 
@@ -22,15 +46,39 @@
     editorSubcategory = "BNB_FA_LXII_SA";
     side=1;
     displayName="Medic SA";
-    uniformClass="UK3CB_BAF_U_CombatUniform_SA_ShortSleeve";
-    weapons[]={"UK3CB_BAF_L131A1","UK3CB_BAF_L85A3_Grippod_G","Put","Throw"};
-    respawnWeapons[]={"UK3CB_BAF_L131A1","UK3CB_BAF_L85A3_Grippod_G","Put","Throw"};
-    items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_MapTools","ACE_EntrenchingTool","ACE_surgicalKit","ACE_plasmaIV","ACE_plasmaIV","ACE_plasmaIV","ACE_plasmaIV","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet"};
-    respawnItems[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_MapTools","ACE_EntrenchingTool","ACE_surgicalKit","ACE_plasmaIV","ACE_plasmaIV","ACE_plasmaIV","ACE_plasmaIV","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_plasmaIV_500","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet"};
-    magazines[]={"UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_556_30Rnd"};
-    respawnMagazines[]={"UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_556_30Rnd"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","UK3CB_BAF_H_Mk7_Camo_A","UK3CB_BAF_V_Osprey_Rifleman_E","UK3CB_BAF_G_Tactical_Black"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","UK3CB_BAF_H_Mk7_Camo_A","UK3CB_BAF_V_Osprey_Rifleman_E","UK3CB_BAF_G_Tactical_Black"};
+    uniformClass="Sol_Aux_Uni_1";
+    weapons[]={"WBK_SolarAux_LasRifle","WBK_SolarAux_Melee_PowerSword","Put","Throw"};
+    respawnWeapons[]={"WBK_SolarAux_LasRifle","WBK_SolarAux_Melee_PowerSword","Put","Throw"};
+    items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine",
+    "ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine",
+    "ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_EntrenchingTool"};
+    respawnItems[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine",
+    "ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine",
+    "ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_EntrenchingTool"};
+    magazines[]={"SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_krak_grenade_mag","TIOW_ig_krak_grenade_mag",
+    "TIOW_ig_melta_bomb_mag","Echo_Smoke_Grenade_Mag","ACE_CTS9","ACE_CTS9","ACE_CTS9","ACE_CTS9"};
+    respawnMagazines[]={"SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_krak_grenade_mag","TIOW_ig_krak_grenade_mag",
+    "TIOW_ig_melta_bomb_mag","Echo_Smoke_Grenade_Mag","ACE_CTS9","ACE_CTS9","ACE_CTS9","ACE_CTS9"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Sol_Aux_Vest_5","Sol_Aux_Helm_1","G_Balaclava_blk"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Sol_Aux_Vest_5","Sol_Aux_Helm_1","G_Balaclava_blk"};
     backpack="BNB_FA_LXII_Medic_SA_pack";
   };
 
@@ -40,20 +88,44 @@
     editorSubcategory = "BNB_FA_LXII_SA";
     side=1;
     displayName="IC SA";
-    uniformClass="UK3CB_BAF_U_CombatUniform_SA_ShortSleeve";
-    weapons[]={"UK3CB_BAF_L85A3_UGL","UK3CB_BAF_L131A1","UK3CB_BAF_Soflam_Laserdesignator","Put","Throw"};
-    respawnWeapons[]={"UK3CB_BAF_L85A3_UGL","UK3CB_BAF_L131A1","UK3CB_BAF_Soflam_Laserdesignator","Put","Throw"};
-    items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_EntrenchingTool","ACE_HuntIR_monitor","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_CableTie"};
-    respawnItems[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_EntrenchingTool","ACE_HuntIR_monitor","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_CableTie","ACE_CableTie"};
-    magazines[]={"UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","ACE_HuntIR_M203","ACE_HuntIR_M203","ACE_HuntIR_M203","ACE_HuntIR_M203","ACE_HuntIR_M203","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShellRed","UK3CB_BAF_SmokeShellRed","UK3CB_BAF_SmokeShellRed","UK3CB_BAF_SmokeShellBlue","UK3CB_BAF_SmokeShellBlue","UK3CB_BAF_SmokeShellBlue","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd"};
-    respawnMagazines[]={"UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","UK3CB_BAF_9_17Rnd","ACE_HuntIR_M203","ACE_HuntIR_M203","ACE_HuntIR_M203","ACE_HuntIR_M203","ACE_HuntIR_M203","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HEDP_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_1Rnd_HE_Grenade_Shell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShell","UK3CB_BAF_SmokeShellRed","UK3CB_BAF_SmokeShellRed","UK3CB_BAF_SmokeShellRed","UK3CB_BAF_SmokeShellBlue","UK3CB_BAF_SmokeShellBlue","UK3CB_BAF_SmokeShellBlue","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd","UK3CB_BAF_556_30Rnd"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","UK3CB_BAF_Soflam_Laserdesignator","UK3CB_BAF_H_Mk7_Camo_A","UK3CB_BAF_V_Osprey_SL_C","UK3CB_BAF_G_Tactical_Black"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","UK3CB_BAF_Soflam_Laserdesignator","UK3CB_BAF_H_Mk7_Camo_A","UK3CB_BAF_V_Osprey_SL_C","UK3CB_BAF_G_Tactical_Black"};
+    uniformClass="Sol_Aux_Uni_1";
+    weapons[]={"WBK_SolarAux_LasRifle","WBK_SolarAux_Melee_PowerSword","Put","Throw"};
+    respawnWeapons[]={"WBK_SolarAux_LasRifle","WBK_SolarAux_Melee_PowerSword","Put","Throw"};
+    items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine",
+    "ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine",
+    "ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_EntrenchingTool"};
+    respawnItems[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine",
+    "ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_Flashlight_XL50","ACE_MapTools","ACE_morphine","ACE_morphine","ACE_morphine","ACE_morphine",
+    "ACE_morphine","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+    "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage","ACE_packingBandage",
+    "ACE_EntrenchingTool"};
+    magazines[]={"SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_krak_grenade_mag","TIOW_ig_krak_grenade_mag",
+    "TIOW_ig_melta_bomb_mag","Echo_Smoke_Grenade_Mag","ACE_CTS9","ACE_CTS9","ACE_CTS9","ACE_CTS9"};
+    respawnMagazines[]={"SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag","SolarAux_RifleMag",
+    "TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_frag_grenade_mag","TIOW_ig_krak_grenade_mag","TIOW_ig_krak_grenade_mag",
+    "TIOW_ig_melta_bomb_mag","Echo_Smoke_Grenade_Mag","ACE_CTS9","ACE_CTS9","ACE_CTS9","ACE_CTS9"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Sol_Aux_Vest_5","Sol_Aux_Helm_4","Solar_Aux_Plume2","G_Balaclava_blk"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Sol_Aux_Vest_5","Sol_Aux_Helm_4","Solar_Aux_Plume2","G_Balaclava_blk"};
     backpack="BNB_FA_LXII_IC_SA_pack";
   };
 
 
-  class BNB_FA_LXII_Rifleman_SA_pack: UK3CB_BAF_B_Bergen_SA_Rifleman_L_B
+  class BNB_FA_LXII_Rifleman_SA_pack: Sol_Aux_Backpack_1
   {
     scope=2;
     class TransportMagazines{};
@@ -62,7 +134,7 @@
   };
 
 
-  class BNB_FA_LXII_Medic_SA_pack: UK3CB_BAF_B_Bergen_SA_Medic_L_B
+  class BNB_FA_LXII_Medic_SA_pack: Sol_Aux_Backpack_1
   {
     scope=2;
     class TransportMagazines{};
@@ -81,7 +153,7 @@
   };
 
 
-  class BNB_FA_LXII_IC_SA_pack: UK3CB_BAF_B_Bergen_SA_JTAC_H_A
+  class BNB_FA_LXII_IC_SA_pack: Sol_Aux_Backpack_1_VOX
   {
     scope=2;
     class TransportMagazines

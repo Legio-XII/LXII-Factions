@@ -33,7 +33,7 @@
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
     linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
     respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
-    backpack="ic_CadianBackpackV1";
+    backpack="BNB_FA_LXII_Rifleman_Desert_pack";
   };
 
   class BNB_FA_LXII_Medic_Desert: B_medic_F
@@ -93,7 +93,7 @@
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
     linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
     respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
-    backpack="ic_CadianBackpackV1";
+    backpack="BNB_FA_LXII_Medic_Desert_pack";
   };
 
   class BNB_FA_LXII_IC_Desert: B_Soldier_SL_F
@@ -131,7 +131,7 @@
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
     linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
     respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
-    backpack="ic_CadianBackpackV1";
+    backpack="BNB_FA_LXII_IC_Desert_pack";
   };
 
 
@@ -162,7 +162,7 @@
     class TransportWeapons{};
   };
 
-  class BNB_FA_LXII_IC_Desert_pack: ic_CadianBackpackV1
+  class BNB_FA_LXII_IC_Desert_pack: ic_VoxBackpack
   {
     scope=2;
     class TransportMagazines{};
