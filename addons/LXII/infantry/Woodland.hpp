@@ -135,7 +135,7 @@
   };
 
 
-  class BNB_FA_UK_Rifleman_Woodland_pack: ic_CadianBackpackV1_A
+  class BNB_FA_LXII_Rifleman_Woodland_pack: ic_CadianBackpackV1
   {
     scope=2;
     class TransportMagazines{};
@@ -144,7 +144,7 @@
   };
 
 
-  class BNB_FA_LXII_Medic_Woodland_pack: ic_CadianBackpackV1_B
+  class BNB_FA_LXII_Medic_Woodland_pack: ic_CadianBackpackV1
   {
     scope=2;
     class TransportMagazines{};
@@ -159,5 +159,13 @@
      class _xx_ACE_packingBandage {count=25;name="ACE_packingBandage";};
      class _xx_ACE_tourniquet {count=6;name="ACE_tourniquet";};
     };
+    class TransportWeapons{};
+  };
+
+  class BNB_FA_LXII_IC_Woodland_pack: ic_CadianBackpackV1
+  {
+    scope=2;
+    class TransportMagazines{};
+    class TransportItems{};
     class TransportWeapons{};
   };
