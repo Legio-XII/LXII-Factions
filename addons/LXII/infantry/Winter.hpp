@@ -1,4 +1,4 @@
- class BNB_FA_LXII_Guardsman_Winter: B_Soldier_F
+ class BNB_FA_LXII_Rifleman_Winter: B_Soldier_F
   {
     faction="BNB_FA_LXII_Faction";
     editorSubcategory="BNB_FA_LXII_Winter";
@@ -31,8 +31,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white","IC_cad_rebreather_white"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white","IC_cad_rebreather_white"};
     backpack="BNB_FA_LXII_Rifleman_Winter_pack";
   };
 
@@ -91,8 +91,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white","IC_cad_rebreather_white"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white","IC_cad_rebreather_white"};
     backpack="BNB_FA_LXII_Medic_Winter_pack";
   };
 
@@ -129,8 +129,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white","IC_cad_rebreather_white"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_white","IC_CAD_FlakArmor_band_white","IC_cad_rebreather_white"};
     backpack="BNB_FA_LXII_IC_Winter_pack";
   };
 

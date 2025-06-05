@@ -4,7 +4,7 @@
     editorSubcategory = "BNB_FA_LXII_Desert";
     side=1;
     displayName="Rifleman Desert";
-    uniformClass="IC_CAD_U_776_2_B";
+    uniformClass="IC_CAD_U_836_2_B";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
@@ -31,8 +31,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_beige","IC_CAD_FlakArmor_beige", "IC_cad_rebreather_beige"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_beige","IC_CAD_FlakArmor_beige", "IC_cad_rebreather_beige"};
     backpack="BNB_FA_LXII_Rifleman_Desert_pack";
   };
 
@@ -42,7 +42,7 @@
     editorSubcategory = "BNB_FA_LXII_Desert";
     side=1;
     displayName="Medic Desert";
-    uniformClass="IC_CAD_U_776_2_B";
+    uniformClass="IC_CAD_U_836_2_B";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine",
@@ -91,8 +91,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_beige","IC_CAD_FlakArmor_beige", "IC_cad_rebreather_beige"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_beige","IC_CAD_FlakArmor_beige", "IC_cad_rebreather_beige"};
     backpack="BNB_FA_LXII_Medic_Desert_pack";
   };
 
@@ -102,7 +102,7 @@
     editorSubcategory = "BNB_FA_LXII_Desert";
     side=1;
     displayName="IC Desert";
-    uniformClass="IC_CAD_U_776_2_B";
+    uniformClass="IC_CAD_U_836_2_B";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
@@ -129,8 +129,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_beige","IC_CAD_FlakArmor_beige", "IC_cad_rebreather_beige"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_beige","IC_CAD_FlakArmor_beige", "IC_cad_rebreather_beige"};
     backpack="BNB_FA_LXII_IC_Desert_pack";
   };
 
