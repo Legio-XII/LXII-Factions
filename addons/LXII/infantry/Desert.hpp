@@ -134,6 +134,44 @@
     backpack="BNB_FA_LXII_IC_Desert_pack";
   };
 
+    class BNB_FA_LXII_Crew_Desert: B_Soldier_F
+  {
+    faction="BNB_FA_LXII_Faction";
+    editorSubcategory="BNB_FA_LXII_Desert";
+    side=1;
+    displayName="Crewman Desert";
+    uniformClass="IC_CAD_TANKER_02_U_836_B";
+    weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
+    respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
+    items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
+         "ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
+         "ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_morphine","ACE_morphine",
+         "ACE_epinephrine","ACE_epinephrine","ACE_plasmaIV","ACE_plasmaIV_500","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_EntrenchingTool",
+         "ACE_MapTools"};
+    respawnItems[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
+         "ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
+         "ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage",
+         "ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_elasticBandage","ACE_morphine","ACE_morphine",
+         "ACE_epinephrine","ACE_epinephrine","ACE_plasmaIV","ACE_plasmaIV_500","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_tourniquet","ACE_EntrenchingTool",
+         "ACE_MapTools"};
+    magazines[]={"ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext","ic_las_powerpack_ext", 
+        "ic_laspistol_powerpack", "ic_laspistol_powerpack", "IC_CAD_FRAG_mag", "IC_CAD_FRAG_mag", "IC_CAD_FRAG_mag", "IC_CAD_KRAK_mag", "IC_CAD_KRAK_mag", 
+        "Echo_Smoke_Grenade_Mag", "Echo_Smoke_Grenade_Mag"};
+    respawnMagazines[]={"ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext","ic_las_powerpack_ext", 
+        "ic_laspistol_powerpack", "ic_laspistol_powerpack", "IC_CAD_FRAG_mag", "IC_CAD_FRAG_mag", "IC_CAD_FRAG_mag", "IC_CAD_KRAK_mag", "IC_CAD_KRAK_mag", 
+        "Echo_Smoke_Grenade_Mag", "Echo_Smoke_Grenade_Mag"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","H_Tank_ear_F","ic_cad_FlakArmor_NSBeige"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","H_Tank_ear_F","ic_cad_FlakArmor_NSBeige"};
+    backpack="";
+  };
+
 
   class BNB_FA_LXII_Rifleman_Desert_pack: ic_CadianBackpackV1
   {

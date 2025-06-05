@@ -1,7 +1,7 @@
 class CfgPatches {
 	class bnb_e_core {
 		name = "LXII Extras - Core";
-		units[] = {"bnb_e_Module_AddArsenal"};
+		units[] = {"bnb_e_Module_AddArsenal", "Legio_Flag"};
 		weapons[] = {};
 		requiredAddons[] = {
 			"A3_Modules_F",
@@ -53,6 +53,23 @@ class CfgVehicles {
 		isTriggerActivated = 0;
 		curatorCanAttach = 1;
 	};
+	class Flag_White_F; // Add this line
+
+	class Legio_Flag : Flag_White_F {
+		author = "Hex";
+        scope = 2;
+        displayName = "Legio XII Flag";
+        class EventHandlers {
+            init = "(_this select 0) setFlagTexture (getText (configFile >> 'CfgFlags' >> 'LegioFlag' >> 'texture'))";
+        };
+    };
+};
+
+class CfgFlags {
+    class LegioFlag {
+        name = "Legio XII";
+        texture = "\x\bnb_e\core\data\legio-flag.paa";
+    };
 };
 
 class Extended_PreInit_EventHandlers {
