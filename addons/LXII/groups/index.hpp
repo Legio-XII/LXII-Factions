@@ -60,9 +60,9 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_SA"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_SA"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_SA"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="IC_Taurox_HS_SL"; rank="PRIVATE"; position[]={0,-30,0}; };
-                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_SA"; rank="PRIVATE"; position[]={0,0,0}; };
-                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_SA"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit8 { side=1; vehicle="IC_Taurox_HS_SL_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Rifleman_SA"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Rifleman_SA"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
             };
             class BNB_FA_LXII_Desert 
@@ -97,7 +97,7 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_Desert"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_Desert"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_Desert"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="TIOW_ValhallanChimAuto_Brown"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit8 { side=1; vehicle="TIOW_ValhallanChimAuto_Brown_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
                     class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_Desert"; rank="PRIVATE"; position[]={0,0,0}; };
                     class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_Desert"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
@@ -134,9 +134,9 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_PT"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_PT"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_PT"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="IC_Taurox_HS_SL"; rank="PRIVATE"; position[]={0,-30,0}; };
-                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_PT"; rank="PRIVATE"; position[]={0,0,0}; };
-                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_PT"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit8 { side=1; vehicle="IC_Taurox_HS_SL_PT_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Rifleman_PT"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Rifleman_PT"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
             };
             class BNB_FA_LXII_TSC 
@@ -171,9 +171,9 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="IC_Taurox_AutoCannon"; rank="PRIVATE"; position[]={0,-30,0}; };
-                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
-                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit8 { side=1; vehicle="IC_Taurox_AutoCannon_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
                 class BNB_FA_LXII_TSC_Mech_BC
                 {
@@ -189,9 +189,9 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="IC_Taurox_BattleCannon"; rank="PRIVATE"; position[]={0,-30,0}; };
-                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
-                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit8 { side=1; vehicle="IC_Taurox_BattleCannon_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
                 class BNB_FA_LXII_TSC_Mech_GG
                 {
@@ -207,9 +207,9 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="IC_Taurox_GatlingGun"; rank="PRIVATE"; position[]={0,-30,0}; };
-                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
-                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit8 { side=1; vehicle="IC_Taurox_GatlingGun_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Rifleman_TSC"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
             };
             class BNB_FA_LXII_Woodland
@@ -244,7 +244,7 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_Woodland"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_Woodland"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_Woodland"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="TIOW_CadianChimAuto_776"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    class Unit8 { side=1; vehicle="TIOW_CadianChimAuto_776_empty"; rank="PRIVATE"; position[]={0,-30,0}; };
                     class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_Woodland"; rank="PRIVATE"; position[]={0,0,0}; };
                     class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_Woodland"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
@@ -281,9 +281,9 @@ class CfgGroups
                     class Unit5 { side=1; vehicle="BNB_FA_LXII_Rifleman_Winter"; rank="PRIVATE"; position[]={15,-15,0}; };
                     class Unit6 { side=1; vehicle="BNB_FA_LXII_Rifleman_Winter"; rank="PRIVATE"; position[]={-15,-15,0}; };
                     class Unit7 { side=1; vehicle="BNB_FA_LXII_Rifleman_Winter"; rank="PRIVATE"; position[]={20,-20,0}; };
-                    class Unit8 { side=1; vehicle="TIOW_ValhallanChimAuto_White"; rank="PRIVATE"; position[]={0,-30,0}; };
-                    class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_Winter"; rank="PRIVATE"; position[]={0,0,0}; };
-                    class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_Winter"; rank="PRIVATE"; position[]={0,0,0}; };
+                    class Unit8 { side=1; vehicle="TIOW_ValhallanChimAuto_White_Custom"; rank="PRIVATE"; position[]={0,-30,0}; };
+                    // class Unit9 { side=1; vehicle="BNB_FA_LXII_Crewman_Winter"; rank="PRIVATE"; position[]={0,0,0}; };
+                    // class Unit10 { side=1; vehicle="BNB_FA_LXII_Crewman_Winter"; rank="PRIVATE"; position[]={0,0,0}; };
                 };
             };
         };
