@@ -156,15 +156,7 @@
   class BNB_FA_LXII_IC_SA_pack: Sol_Aux_Backpack_1_VOX
   {
     scope=2;
-    class TransportMagazines
-    {
-     class _xx_UK3CB_BAF_1Rnd_HEDP_Grenade_Shell {count=10;magazine="UK3CB_BAF_1Rnd_HEDP_Grenade_Shell";};
-     class _xx_UK3CB_BAF_1Rnd_HE_Grenade_Shell {count=5;magazine="UK3CB_BAF_1Rnd_HE_Grenade_Shell";};
-     class _xx_UK3CB_BAF_SmokeShell {count=3;magazine="UK3CB_BAF_SmokeShell";};
-     class _xx_UK3CB_BAF_SmokeShellRed {count=3;magazine="UK3CB_BAF_SmokeShellRed";};
-     class _xx_UK3CB_BAF_SmokeShellBlue {count=3;magazine="UK3CB_BAF_SmokeShellBlue";};
-     class _xx_UK3CB_BAF_556_30Rnd {count=3;magazine="UK3CB_BAF_556_30Rnd";};
-    };
+    class TransportMagazines{};
     class TransportItems{};
     class TransportWeapons{};
   };
