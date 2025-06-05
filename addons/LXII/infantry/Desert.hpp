@@ -162,7 +162,7 @@
     class TransportWeapons{};
   };
 
-  class BNB_FA_LXII_IC_Desert_pack: ic_CadianBackpackV1
+  class BNB_FA_LXII_IC_Desert_pack: ic_VoxBackpack
   {
     scope=2;
     class TransportMagazines{};
