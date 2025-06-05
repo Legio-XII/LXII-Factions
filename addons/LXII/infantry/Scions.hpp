@@ -1,4 +1,4 @@
-  class BNB_FA_LXII_Rifleman_PT: B_Soldier_F
+  class BNB_FA_LXII_Rifleman_TSC: B_Soldier_F
   {
     faction="BNB_FA_LXII_Faction";
     editorSubcategory = "BNB_FA_LXII_TSC";
