@@ -134,7 +134,7 @@
     backpack="BNB_FA_LXII_IC_Desert_pack";
   };
 
-    class BNB_FA_LXII_Crew_Desert: B_Soldier_F
+    class BNB_FA_LXII_Crewman_Desert: B_Soldier_F
   {
     faction="BNB_FA_LXII_Faction";
     editorSubcategory="BNB_FA_LXII_Desert";
@@ -167,8 +167,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext", "ic_las_powerpack_ext","ic_las_powerpack_ext", 
         "ic_laspistol_powerpack", "ic_laspistol_powerpack", "IC_CAD_FRAG_mag", "IC_CAD_FRAG_mag", "IC_CAD_FRAG_mag", "IC_CAD_KRAK_mag", "IC_CAD_KRAK_mag", 
         "Echo_Smoke_Grenade_Mag", "Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","H_Tank_ear_F","ic_cad_FlakArmor_NSBeige"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","H_Tank_ear_F","ic_cad_FlakArmor_NSBeige"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Cad_Tnk_Helm","ic_cad_FlakArmor_NSBeige"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","Cad_Tnk_Helm","ic_cad_FlakArmor_NSBeige"};
     backpack="";
   };
 

@@ -23,5 +23,74 @@ class CfgPatches {
 	};
 };
 
+class CfgVehicles {
+    // Reference original classes
+    class IC_Taurox_HS_SL;
+    class TIOW_ValhallanChimAuto_Brown;
+    class TIOW_CadianChimAuto_776;
+    class TIOW_ValhallanChimAuto_White;
+    class IC_Taurox_AutoCannon;
+    class IC_Taurox_BattleCannon;
+    class IC_Taurox_GatlingGun;
+
+    // Empty variants
+    class IC_Taurox_HS_SL_empty : IC_Taurox_HS_SL {
+        displayName = "Taurox HS (Empty)";
+        crew = "BNB_FA_LXII_Rifleman_SA";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class IC_Taurox_HS_SL_PT_empty : IC_Taurox_HS_SL {
+        displayName = "Taurox HS (Empty)";
+        crew = "BNB_FA_LXII_Rifleman_PT";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class TIOW_ValhallanChimAuto_Brown_empty : TIOW_ValhallanChimAuto_Brown {
+        displayName = "Valhallan Chimera (Brown, Empty)";
+        crew = "BNB_FA_LXII_Crewman_Desert";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class TIOW_CadianChimAuto_776_empty : TIOW_CadianChimAuto_776 {
+        displayName = "Cadian Chimera (776, Empty)";
+        crew = "BNB_FA_LXII_Crewman_Woodland";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class TIOW_ValhallanChimAuto_White_Custom : TIOW_ValhallanChimAuto_White {
+        displayName = "Valhallan Chimera (White, Empty)";
+        crew = "BNB_FA_LXII_Crewman_Winter";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class IC_Taurox_AutoCannon_empty : IC_Taurox_AutoCannon {
+        displayName = "Taurox AutoCannon (Empty)";
+        crew = "BNB_FA_LXII_Rifleman_TSC";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class IC_Taurox_BattleCannon_empty : IC_Taurox_BattleCannon {
+        displayName = "Taurox BattleCannon (Empty)";
+        crew = "BNB_FA_LXII_Rifleman_TSC";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+    class IC_Taurox_GatlingGun_empty : IC_Taurox_GatlingGun {
+        displayName = "Taurox GatlingGun (Empty)";
+        crew = "BNB_FA_LXII_Rifleman_TSC";
+        typicalCargo[] = {};
+        scope = 2;
+        scopeCurator = 2;
+    };
+};
+
 #include "infantry\index.hpp"
 #include "groups\index.hpp"
