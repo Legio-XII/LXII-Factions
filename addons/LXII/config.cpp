@@ -15,7 +15,10 @@ class CfgPatches {
 			"ace_explosives","ace_tagging","A3_Weapons_F"};
 		units[] = {"BNB_FA_LXII_Rifleman_Woodland","BNB_FA_LXII_Medic_Woodland","BNB_FA_LXII_IC_Woodland","BNB_FA_LXII_Rifleman_Desert","BNB_FA_LXII_Medic_Desert",
 			"BNB_FA_LXII_IC_Desert","BNB_FA_LXII_Rifleman_SA","BNB_FA_LXII_Medic_SA","BNB_FA_LXII_IC_SA","BNB_FA_LXII_Rifleman_Winter","BNB_FA_LXII_Medic_Winter",
-			"BNB_FA_LXII_IC_Winter"};
+			"BNB_FA_LXII_IC_Winter", "BNB_FA_LXII_Rifleman_PT","BNB_FA_LXII_Medic_PT","BNB_FA_LXII_IC_PT","BNB_FA_LXII_Rifleman_TSC","BNB_FA_LXII_Medic_TSC",
+            "BNB_FA_LXII_IC_TSC","BNB_FA_LXII_Crewman_Woodland","BNB_FA_LXII_Crewman_Desert","BNB_FA_LXII_Crewman_Winter","IC_Taurox_HS_SL_empty",
+            "IC_Taurox_HS_SL_PT_empty","TIOW_ValhallanChimAuto_Brown_empty","TIOW_CadianChimAuto_776_empty","TIOW_ValhallanChimAuto_White_Custom", "IC_Taurox_AutoCannon_empty",
+            "IC_Taurox_BattleCannon_empty","IC_Taurox_GatlingGun_empty"};
 		weapons[] = {};
 		magazines[] = {};
 		ammo[] = {};
