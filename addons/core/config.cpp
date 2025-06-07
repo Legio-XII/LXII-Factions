@@ -4,8 +4,9 @@ class CfgPatches {
 		units[] = {"bnb_e_Module_AddArsenal", "Legio_Flag"};
 		weapons[] = {};
 		requiredAddons[] = {
-			"A3_Modules_F",
-			"ace_arsenal"
+			"cba_main",
+			"ace_arsenal",
+			"A3_Modules_F"
 		};
 		author = "Legio XII";
 		authors[] = {
