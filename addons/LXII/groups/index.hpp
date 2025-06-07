@@ -35,6 +35,7 @@ class CfgGroups
                 {
                     name = "Section (Base)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_SA";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_SA"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -50,6 +51,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_SA";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_SA"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -72,6 +74,7 @@ class CfgGroups
                 {
                     name = "Section (Base)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_Desert";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_Desert"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -87,6 +90,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_Desert";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_Desert"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -109,6 +113,7 @@ class CfgGroups
                 {
                     name = "Section (Base)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_PT";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_PT"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -124,6 +129,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_PT";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_PT"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -146,6 +152,7 @@ class CfgGroups
                 {
                     name = "Section (Base)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_TSC";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_TSC"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -161,6 +168,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised / AutoCannon)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_TSC";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_TSC"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -179,6 +187,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised / BattleCannon)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_TSC";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_TSC"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -197,6 +206,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised / Gatling)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_TSC";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_TSC"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -219,6 +229,7 @@ class CfgGroups
                 {
                     name = "Section (Base)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_Woodland";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_Woodland"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -234,6 +245,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_Woodland";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_Woodland"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -256,6 +268,7 @@ class CfgGroups
                 {
                     name = "Section (Base)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_Winter";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_Winter"; rank="SERGEANT"; position[]={-10,-10,0}; };
@@ -271,6 +284,7 @@ class CfgGroups
                 {
                     name = "Section (Mechanised)";
                     side = 1;
+                    scope = 2;
                     faction = "BNB_FA_LXII_Winter";
                     icon = "\A3\ui_f\data\map\markers\nato\b_inf.paa";
                     class Unit0 { side=1; vehicle="BNB_FA_LXII_IC_Winter"; rank="SERGEANT"; position[]={-10,-10,0}; };
