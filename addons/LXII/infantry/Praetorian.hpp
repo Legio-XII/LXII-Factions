@@ -3,6 +3,8 @@
     faction="BNB_FA_LXII_Faction";
     editorSubcategory = "BNB_FA_LXII_PT";
     side=1;
+    scope=2;
+    scopeCurator=2;
     displayName="Rifleman PT";
     uniformClass="IC_U_Praetorian_B";
     weapons[]={"IC_Hellgun","Put","Throw"};
@@ -39,6 +41,8 @@
     faction="BNB_FA_LXII_Faction";
     editorSubcategory = "BNB_FA_LXII_PT";
     side=1;
+    scope=2;
+    scopeCurator=2;
     displayName="Medic PT";
     uniformClass="IC_U_Praetorian_B";
     weapons[]={"IC_Hellgun","Put","Throw"};
@@ -75,6 +79,8 @@
     faction="BNB_FA_LXII_Faction";
     editorSubcategory = "BNB_FA_LXII_PT";
     side=1;
+    scope=2;
+    scopeCurator=2;
     displayName="IC PT";
     uniformClass="IC_U_Praetorian_B";
     weapons[]={"IC_Hellgun","Put","Throw"};

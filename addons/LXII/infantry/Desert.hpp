@@ -3,7 +3,7 @@
     faction="BNB_FA_LXII_Faction";
     editorSubcategory = "BNB_FA_LXII_Desert";
     side=1;
-    displayName="Rifleman Desert";
+    displayName="Guardsman Desert";
     uniformClass="IC_CAD_U_836_2_B";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
@@ -139,6 +139,8 @@
     faction="BNB_FA_LXII_Faction";
     editorSubcategory="BNB_FA_LXII_Desert";
     side=1;
+    scope=2;
+    scopeCurator=2;
     displayName="Crewman Desert";
     uniformClass="IC_CAD_TANKER_02_U_836_B";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
