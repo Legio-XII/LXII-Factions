@@ -4,7 +4,7 @@
     editorSubcategory="BNB_FA_LXII_Winter";
     side=1;
     displayName="Guardsman Winter";
-    uniformClass="IC_CAD_U_667_2_B";
+    uniformClass="LXII_Uniform_XII2_W";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
@@ -42,7 +42,7 @@
     editorSubcategory="BNB_FA_LXII_Winter";
     side=1;
     displayName="Medic Winter";
-    uniformClass="IC_CAD_U_667_2_B";
+    uniformClass="LXII_Uniform_XII2_W";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine",
@@ -102,7 +102,7 @@
     editorSubcategory="BNB_FA_LXII_Winter";
     side=1;
     displayName="IC Winter";
-    uniformClass="IC_CAD_U_667_2_B";
+    uniformClass="LXII_Uniform_XII2_W";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",

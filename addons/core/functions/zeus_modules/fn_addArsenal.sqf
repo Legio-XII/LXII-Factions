@@ -25,10 +25,12 @@ private _objects = [_objectUnderCursor];
 // Show Filter Dialog
 private _availableFilters = [
 	"None",
-	"West",
-	"East",
-	"Independent",
-	"Loadouts",
+	"Woodland",
+	"Desert",
+	"Winter",
+	"Solar_Aux",
+	"Kasrkin",
+	"Scion",
 	"Mission"
 ];
 

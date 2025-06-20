@@ -4,7 +4,7 @@
     editorSubcategory="BNB_FA_LXII_Woodland";
     side=1;
     displayName="Guardsman Woodland";
-    uniformClass="IC_CAD_U_776_2_B";
+    uniformClass="LXII_Uniform_XII2";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
@@ -31,8 +31,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green", "dm_KantraelMaskGreen"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green", "dm_KantraelMaskGreen"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","LXII_FlakArmor_Grn", "dm_KantraelMaskGreen"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","LXII_FlakArmor_Grn", "dm_KantraelMaskGreen"};
     backpack="BNB_FA_LXII_Rifleman_Woodland_pack";
   };
 
@@ -42,7 +42,7 @@
     editorSubcategory="BNB_FA_LXII_Woodland";
     side=1;
     displayName="Medic Woodland";
-    uniformClass="IC_CAD_U_776_2_B";
+    uniformClass="LXII_Uniform_XII2";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_adenosine","ACE_EarPlugs","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine","ACE_epinephrine",
@@ -91,8 +91,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green", "dm_KantraelMaskGreen"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green", "dm_KantraelMaskGreen"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_med","LXII_FlakArmor_Medic_Grn", "dm_KantraelMaskGreen"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_med","LXII_FlakArmor_Medic_Grn", "dm_KantraelMaskGreen"};
     backpack="BNB_FA_LXII_Medic_Woodland_pack";
   };
 
@@ -102,7 +102,7 @@
     editorSubcategory="BNB_FA_LXII_Woodland";
     side=1;
     displayName="IC Woodland";
-    uniformClass="IC_CAD_U_776_2_B";
+    uniformClass="LXII_Uniform_XII2";
     weapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     respawnWeapons[]={"ic_cad_m36_lasgun","ic_cad_laspistol","Put","Throw"};
     items[]={"ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot","ACE_quikclot",
@@ -129,8 +129,8 @@
     respawnMagazines[]={"ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext","ic_las_powerpack_ext",
     "ic_laspistol_powerpack","ic_laspistol_powerpack","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_FRAG_mag","IC_CAD_KRAK_mag","IC_CAD_KRAK_mag",
     "Echo_Smoke_Grenade_Mag","Echo_Smoke_Grenade_Mag"};
-    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green", "dm_KantraelMaskGreen"};
-    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","IC_CAD_FlakArmor_band_green", "dm_KantraelMaskGreen"};
+    linkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","LXII_FlakArmor_CPL_Grn", "dm_KantraelMaskGreen"};
+    respawnLinkedItems[]={"ItemMap","ItemCompass","ItemWatch","TFAR_anprc152","ItemGPS","IC_cad_helmet_green","LXII_FlakArmor_CPL_Grn", "dm_KantraelMaskGreen"};
     backpack="BNB_FA_LXII_IC_Woodland_pack";
   };
 

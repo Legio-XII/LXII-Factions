@@ -10,9 +10,10 @@ class CfgPatches {
 		};
 		author = "Legio XII";
 		authors[] = {
-			"D. Ford",
-			"Arend",
-			"FarCry"
+			"D. Ford", // Original Author
+			"Arend", // Original Author
+			"FarCry", // Refactored Code For LXII Use
+			"Hex" // Textures
 		};
 	};
 };
