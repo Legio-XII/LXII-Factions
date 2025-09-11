@@ -97,15 +97,15 @@ class LXII_Soldier_XII_Aux_SGT_F : B_Soldier_base_F {
     };
 };
 
-class LXII_Soldier_Kasr_XII_F : B_Soldier_base_F {
-    scope = 1;
-    displayName = "LXII Kasrkin Soldier";
-    nakedUniform = "U_BasicBody";
-    uniformClass = "LXII_Uniform_Kasr_XII";
-    model = "\IC_cad_inf\Uniform\IC_CAD_UNIFORM_02.p3d";
-    hiddenSelections[] = {"camo1","camo"};
-    hiddenSelectionsTextures[] = {
-        "\IC_cad_inf\Uniform\Data\CAD_uni_pants_beige_co.paa",
-        "\IC_cad_inf\Uniform\Data\CAD_uniform_top_beige_co.paa"
-    };
-};
+// class LXII_Soldier_Kasr_XII_F : B_Soldier_base_F {
+//     scope = 1;
+//     displayName = "LXII Kasrkin Soldier";
+//     nakedUniform = "U_BasicBody";
+//     uniformClass = "LXII_Uniform_Kasr_XII";
+//     model = "\IC_cad_inf\Uniform\IC_CAD_UNIFORM_02.p3d";
+//     hiddenSelections[] = {"camo1", "camo"};
+//     hiddenSelectionsTextures[] = {
+//         "\IC_cad_inf\Uniform\Data\CAD_uni_pants_beige_co.paa",
+//         "\IC_cad_inf\Uniform\Data\CAD_uniform_top_beige_co.paa"
+//     };
+// };
