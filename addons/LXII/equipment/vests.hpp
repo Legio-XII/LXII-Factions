@@ -1,7 +1,8 @@
 // Original Referenced Classes
 class IC_CAD_FlakArmor_band_green; // Guardsmen Flak Armour (Green) Bandolier
 class IC_CAD_FlakArmor_band_white; // Guardsmen Flak Armour (White) Bandolier
-class Sol_Aux_Vest_5; // Solar Aux Vest
+class Sol_Aux_Vest_5; // Solar Aux Vest (Base/Regular)
+class Sol_Aux_Vest_8; // Solar Aux Vest (SGT/LT)
 class IC_CAD_KasrArmor_green; //Kasrkin Armour (Green)
 
 class LXII_FlakArmor_LT_Grn : IC_CAD_FlakArmor_band_green {
@@ -124,24 +125,24 @@ class LXII_Vest_XII_Aux : Sol_Aux_Vest_5 {
     author = "WebKnight";
 };
 
-class LXII_Vest_XII_Aux_LT : Sol_Aux_Vest_5 {
+class LXII_Vest_XII_Aux_LT : Sol_Aux_Vest_8 {
     displayName = "LXII Vest Solar Aux (LT)";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {
         "x\bnb_fa\LXII\textures\Veletari_Vest_XIILT_CO.paa"
     };
     scope = 2; // Makes it available in Arsenal/Editor
-    author = "Hex";
+    author = "WebKnight & Hex (Design)";
 };
 
-class LXII_Vest_XII_Aux_SGT : Sol_Aux_Vest_5 {
+class LXII_Vest_XII_Aux_SGT : Sol_Aux_Vest_8 {
     displayName = "LXII Vest Solar Aux (SGT)";
     hiddenSelections[] = {"camo"};
     hiddenSelectionsTextures[] = {
         "x\bnb_fa\LXII\textures\Veletari_Vest_XIISGT_CO.paa"
     };
     scope = 2; // Makes it available in Arsenal/Editor
-    author = "Hex";
+    author = "WebKnight & Hex (Design)";
 };
 
 class LXII_KasrArmor_Grn : IC_CAD_KasrArmor_green {

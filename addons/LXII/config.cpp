@@ -27,7 +27,7 @@ class CfgPatches {
             "Solar_Auxilia_Cohorts"
         };
 		units[] = {
-            "LXII_Soldier_Kasr_XII_F",
+            //"LXII_Soldier_Kasr_XII_F",
             "LXII_Soldier_XII_Aux_SGT_F",
             "LXII_Soldier_XII_Aux_LT_F",
             "LXII_Soldier_XII_Aux_F",
@@ -66,7 +66,7 @@ class CfgPatches {
             "IC_Taurox_GatlingGun_empty"
         };
 		weapons[] = {
-            "LXII_Uniform_Kasr_XII",
+            //"LXII_Uniform_Kasr_XII",
             "LXII_Uniform_XII",
             "LXII_Uniform_XII2",
             "LXII_Uniform_XII_W",

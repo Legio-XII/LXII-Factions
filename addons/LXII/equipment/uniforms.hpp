@@ -5,6 +5,7 @@ class UniformItem;
 class IC_CAD_U_776_B;
 class IC_CAD_U_776_2_B;
 class IC_CAD_U_667_2_B;
+// class IC_CAD_U_836_B;
 class Sol_Aux_Uni_1;
 
 // Green Uniform (uses CAD_uni_pants_XII_co.paa - IC_CAD_U_776_B)
@@ -98,6 +99,10 @@ class LXII_Uniform_XII_Aux_LT : Uniform_Base {
     displayName = "LXII Uniform Solar Aux (LT)";
     picture = "\SolarAuxStuff\icons\AuxBaseIcon.paa";
     model = "\SolarAuxStuff\models\SolarAuxUni.p3d";
+    hiddenSelections[] = {"camo"};
+    hiddenSelectionsTextures[] = {
+        "x\bnb_fa\LXII\textures\Aux_Uni_XIILT_CO.paa"
+    };
     
     class ItemInfo : UniformItem {
         uniformModel = "-";
@@ -112,6 +117,10 @@ class LXII_Uniform_XII_Aux_SGT : Uniform_Base {
     displayName = "LXII Uniform Solar Aux (SGT)";
     picture = "\SolarAuxStuff\icons\AuxBaseIcon.paa";
     model = "\SolarAuxStuff\models\SolarAuxUni.p3d";
+    hiddenSelections[] = {"camo"};
+    hiddenSelectionsTextures[] = {
+        "x\bnb_fa\LXII\textures\Aux_Uni_XIISGT_CO.paa"
+    };
     
     class ItemInfo : UniformItem {
         uniformModel = "-";
@@ -121,16 +130,21 @@ class LXII_Uniform_XII_Aux_SGT : Uniform_Base {
     };
 };
 
-class LXII_Uniform_Kasr_XII : Uniform_Base {
-    scope = 2;
-    displayName = "LXII Kasrkin Uniform Green";
-    picture = "\IC_cad_inf\Uniform\Data\UI\icon_uniform_ca.paa";
-    model = "\IC_cad_inf\Uniform\IC_CAD_UNIFORM_02.p3d";
+// class LXII_Uniform_Kasr_XII : IC_CAD_U_836_B {
+//     scope = 2;
+//     displayName = "LXII Kasrkin Uniform Green";
+//     picture = "\IC_cad_inf\Uniform\Data\UI\icon_uniform_ca.paa";
+//     model = "\IC_cad_inf\Uniform\IC_CAD_UNIFORM_02.p3d";
+//     hiddenSelections[] = {"camo1", "camo"};
+//     hiddenSelectionsTextures[] = {
+//         "\IC_cad_inf\Uniform\Data\CAD_uni_pants_beige_co.paa",
+//         "\IC_cad_inf\Uniform\Data\CAD_uniform_top_beige_co.paa"
+//     };
     
-    class ItemInfo : UniformItem {
-        uniformModel = "-";
-        uniformClass = "LXII_Soldier_Kasr_XII_F";
-        containerClass = "Supply90";
-        mass = 80;
-    };
-};
+//     class ItemInfo : UniformItem {
+//         uniformModel = "-";
+//         uniformClass = "LXII_Soldier_Kasr_XII_F";
+//         containerClass = "Supply90";
+//         mass = 80;
+//     };
+// };
